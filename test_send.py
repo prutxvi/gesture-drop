@@ -1,3 +1,4 @@
+import os
 import requests
 
 text_to_send = "Hello Mobile!"
