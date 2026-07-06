@@ -1,0 +1,6 @@
+*.py text diff=python
+*.html text
+*.css text
+*.js text
+*.md text
+
