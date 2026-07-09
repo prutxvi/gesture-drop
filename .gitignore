@@ -12,3 +12,8 @@ screenshots/
 *.swp
 *.swo
 *~
+
+*.log
+.tmp
+dist/
+build/
