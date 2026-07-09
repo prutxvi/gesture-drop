@@ -1,3 +1,5 @@
+"""test_send module."""
+
 import os
 import requests
 
