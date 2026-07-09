@@ -1,3 +1,5 @@
+"""gesture_sender module."""
+
 import cv2
 import mediapipe as mp
 import pyperclip
