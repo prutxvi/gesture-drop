@@ -8,3 +8,7 @@ __pycache__/
 *.pyc
 __pycache__/
 screenshots/
+
+*.swp
+*.swo
+*~
