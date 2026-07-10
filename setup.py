@@ -1,3 +1,4 @@
+from __future__ import annotations
 """setup module."""
 
 from setuptools import setup

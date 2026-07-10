@@ -1,3 +1,4 @@
+from __future__ import annotations
 """gesture_sender module."""
 
 import cv2
