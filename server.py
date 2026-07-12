@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """server module."""
 from flask import Flask, request, jsonify, render_template, redirect, url_for
