@@ -1,4 +1,4 @@
 flask==3.0.0
-opencv-python==4.9.0.80
+opencv-python==5.0.0.93
 mediapipe==0.10.9
 requests==2.31.0
