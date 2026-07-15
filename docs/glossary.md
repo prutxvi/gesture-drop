@@ -1,0 +1,4 @@
+# gesture-drop Glossary
+
+## Terms
+
