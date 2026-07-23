@@ -1,5 +1,4 @@
-.PHONY: run
+.PHONY: test
 
-run:
-	python app.py
-
+test:
+	pytest
