@@ -1,41 +1,36 @@
-# Python
+*.pyc
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
+.env
+.DS_Store
 
-# Virtual Environment
-venv/
-ENV/
-env/
 
-# IDE files
-.idea/
-.vscode/
+.DS_Store
+*.pyc
+__pycache__/
+screenshots/
+
 *.swp
 *.swo
+*~
 
-# Flask
-instance/
-.webassets-cache
-static/uploads/*
-!static/uploads/.gitkeep
+*.log
+.tmp
+dist/
+build/
 
-# Logs
+# IDEs
+.vscode/
+.idea/
+*.sublime-*
+
+# Secrets
+*.pem
+*.key
+.env.local
+
+.DS_Store
+*.pyc
+__pycache__/
+
+.env
 *.log
