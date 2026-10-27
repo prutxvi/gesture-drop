@@ -34,3 +34,5 @@ __pycache__/
 
 .env
 *.log
+*.exe
+*.exe.old
