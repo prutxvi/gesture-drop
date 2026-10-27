@@ -1,4 +1,0 @@
-# gesture-drop Integration
-
-## API
-

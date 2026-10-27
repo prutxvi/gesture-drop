@@ -1,4 +1,0 @@
-# gesture-drop Optimization
-
-## Tips
-

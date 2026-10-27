@@ -1,4 +1,0 @@
-# gesture-drop Compliance
-
-## Standards
-

@@ -1,4 +1,0 @@
-# gesture-drop Monitoring
-
-## Metrics
-
